@@ -1,6 +1,7 @@
 # Scale institutional knowledge using Copilot Spaces
 # 使用 Copilot Spaces 擴展組織知識
 
+<<<<<<< HEAD
 Learn how Copilot Spaces can scale institutional knowledge and streamline organizational processes.
 <!-- 學習如何使用 Copilot Spaces 來擴展組織知識並簡化組織流程 -->
 
@@ -102,7 +103,19 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
   <!-- 如果頁面顯示失敗的工作,請提交議題。太好了,你發現了一個錯誤! 🐛 -->
 
 </details>
+=======
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+
+Hey jimmy10800d!
+
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+
+Remember, it's self-paced so feel free to take a break! ☕️
+
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jimmy10800d/scale-institutional-knowledge-using-copilot-spaces/issues/1)
+>>>>>>> 72c68dd038c050e604492a1f3da6010b47cb3877
 
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
