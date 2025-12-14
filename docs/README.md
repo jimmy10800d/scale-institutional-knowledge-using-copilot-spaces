@@ -18,8 +18,8 @@ OctoAcme's project management is structured around open access and collaboration
   <!-- 核心價值:客戶優先、迭代交付、明確角色(專案經理、產品經理、開發人員、利害關係人、QA),以及透過回顧進行持續改進 -->
 - All process knowledge is kept searchable and versioned to support onboarding, reduce dependency on individuals, and drive repeatable execution.
   <!-- 所有流程知識都保持可搜尋和版本化,以支援入職培訓、減少對個人的依賴並推動可重複執行 -->
-- Relevant personas and role definitions are included for clarity.
-  <!-- 包含相關人員角色和角色定義以提供清晰度 -->
+- Relevant personas and roles are included for clarity.
+  <!-- 包含相關人員角色和職責以提供清晰度 -->
 - For more about the rationale and approach, see the general instructions in Copilot Space and individual files below.
   <!-- 有關理由和方法的更多資訊,請參閱 Copilot Space 中的一般說明和下面的個別檔案 -->
 
